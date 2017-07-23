@@ -1,11 +1,14 @@
 .companyLogo {
     width: 150px;
-    margin: 15px 15px 0px 15px
+    margin: 15px 15px 0px 15px;
+    opacity: 0.7
 }
 
 .logo-text {
     color: #fff;
-    opacity: 0.7
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }
 
 .down-arrow-btn-top {

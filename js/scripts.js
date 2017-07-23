@@ -132,7 +132,7 @@ $(window).load(function() {
 	$('#teamSlider').flexslider({
 		animation: "slide",
 		directionNav: true,
-        randomizer: true,
+        randomize: true,
 		controlNav: true,
 		touch: true,
 		pauseOnHover: true,

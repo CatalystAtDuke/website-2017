@@ -131,7 +131,8 @@ $(window).load(function() {
 
 	$('#teamSlider').flexslider({
 		animation: "slide",
-		directionNav: false,
+		directionNav: true,
+        randomizer: true,
 		controlNav: true,
 		touch: true,
 		pauseOnHover: true,

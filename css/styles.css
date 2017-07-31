@@ -4,7 +4,7 @@
     text-align: center;
     width: 80%;
     margin-bottom: 10px;
-    opacity: .9
+/*    opacity: .9*/
 }
 
 .logo-wrap {
@@ -785,7 +785,7 @@ Hero
 ========================================================================== */
 
 .hero {
-    background: url('../img/hero-bg.jpg') no-repeat center center;
+    background: url('../img/main-bg3.png') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

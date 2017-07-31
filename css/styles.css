@@ -1,5 +1,11 @@
 /* MODIFIED STYLES */
 
+.main-logo {
+    text-align: center;
+    width: 80%;
+    margin-bottom: 10px
+}
+
 .logo-wrap {
     margin: 0.67em 0;
 }

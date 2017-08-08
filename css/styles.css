@@ -1,5 +1,7 @@
 /* MODIFIED STYLES */
-
+.logo-sub {
+    color: #B0BAC1
+}
 .main-logo {
     text-align: center;
     width: 80%;
@@ -569,7 +571,8 @@ a:focus {
 }
 
 p {
-    color: #8c9398;
+/*    color: #8c9398;*/
+    color: #7E858B;
     word-spacing: 1px;
     line-height: 25px;
     font-size: 14px;

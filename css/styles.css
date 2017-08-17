@@ -14,7 +14,7 @@
 }
 
 .companyLogo {
-    max-width: 200px;
+    max-width: 180px;
     max-height: 70px;
     margin: 20px 20px 0px 20px;
     opacity: 0.8
@@ -902,6 +902,15 @@ iPhone Section
 ========================================================================== */
 
 .iphone {
+    background: url('../img/event.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 65px 0 300px 0;
+    height: 100%;
+    max-width: 50%;
+/*
     width: 50%;
     background: #f3f5f8;
     float: left;
@@ -910,6 +919,7 @@ iPhone Section
     -moz-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1);
     -webkit-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1);
     z-index: 1;
+*/
 }
 
 .fluid-white {

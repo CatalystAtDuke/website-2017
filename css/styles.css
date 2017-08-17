@@ -873,7 +873,7 @@ Features
 
 /*
 .shadow {
-    text-shadow: rgb(55, 181, 161) 1px 1px, rgb(55, 181, 161) 2px 2px, rgb(55, 181, 161) 3px 3px, rgb(55, 181, 161) 4px 4px, rgb(55, 181, 161) 5px 5px, rgb(55, 181, 161) 6px 6px, rgb(55, 181, 161) 7px 7px, rgb(55, 181, 161) 8px 8px, rgb(55, 181, 161) 9px 9px, rgb(55, 181, 161) 10px 10px, rgb(55, 181, 161) 11px 11px, rgb(55, 181, 161) 12px 12px, rgb(55, 182, 162) 13px 13px, rgb(55, 183, 163) 14px 14px, rgb(56, 184, 164) 15px 15px, rgb(56, 185, 165) 16px 16px, rgb(56, 186, 166) 17px 17px, rgb(57, 187, 167) 18px 18px, rgb(57, 188, 168) 19px 19px, rgb(57, 189, 169) 20px 20px, rgb(58, 191, 170) 21px 21px, rgb(58, 192, 171) 22px 22px, rgb(58, 193, 172) 23px 23px, rgb(59, 194, 173) 24px 24px, rgb(59, 195, 174) 25px 25px, rgb(59, 196, 175) 26px 26px, rgb(60, 197, 176) 27px 27px, rgb(60, 198, 177) 28px 28px, rgb(60, 199, 178) 29px 29px, rgb(8, 181, 209) 30px 30px;
+    text-shadow: rgba(0,0,0,0.5) 1px 1px, rgba(0,0,0,0.5) 2px 2px, rgba(0,0,0,0.5) 3px 3px, rgba(0,0,0,0.5) 4px 4px, rgba(0,0,0,0.5) 5px 5px, rgba(0,0,0,0.5) 6px 6px, rgba(0,0,0,0.5) 7px 7px, rgba(0,0,0,0.5) 8px 8px, rgba(0,0,0,0.5) 9px 9px, rgba(0,0,0,0.5) 10px 10px, rgba(0,0,0,0.5) 11px 11px, rgba(0,0,0,0.5) 12px 12px, rgba(0,0,0,0.5) 13px 13px, rgba(0,0,0,0.5) 14px 14px, rgba(0,0,0,0.5) 15px 15px, rgba(0,0,0,0.5) 16px 16px, rgba(0,0,0,0.5) 17px 17px, rgba(0,0,0,0.5) 18px 18px, rgba(0,0,0,0.5) 19px 19px, rgba(0,0,0,0.5) 20px 20px, rgba(0,0,0,0.5) 21px 21px, rgba(0,0,0,0.5) 22px 22px, rgba(0,0,0,0.5) 23px 23px, rgba(0,0,0,0.5) 24px 24px, rgba(0,0,0,0.5) 25px 25px, rgba(0,0,0,0.5) 26px 26px, rgba(0,0,0,0.5) 27px 27px, rgba(0,0,0,0.5) 28px 28px, rgba(0,0,0,0.5) 29px 29px, rgba(0,0,0,0.5) 30px 30px;
 }
 */
 
@@ -894,6 +894,9 @@ Features
     vertical-align: middle;
     position: relative;
     margin: 0 auto 50px;
+    overflow: hidden;
+    
+    text-shadow: #009EBA 1px 1px, #009EBA 2px 2px, #009EBA 3px 3px, #009EBA 4px 4px, #009EBA 5px 5px, #009EBA 6px 6px, #009EBA 7px 7px, #009EBA 8px 8px, #009EBA 9px 9px, #009EBA 10px 10px, #009EBA 11px 11px, #009EBA 12px 12px, #009EBA 13px 13px, #009EBA 14px 14px, #009EBA 15px 15px, #009EBA 16px 16px, #009EBA 17px 17px, #009EBA 18px 18px, #009EBA 19px 19px, #009EBA 20px 20px, #009EBA 21px 21px, #009EBA 22px 22px, #009EBA 23px 23px, #009EBA 24px 24px, #009EBA 25px 25px, #009EBA 26px 26px, #009EBA 27px 27px, #009EBA 28px 28px, #009EBA 29px 29px, #009EBA 30px 30px, #009EBA 31px 31px, #009EBA 32px 32px,#009EBA 33px 33px,#009EBA 34px 34px, #009EBA 35px 35px,#009EBA 36px 36px,#009EBA 37px 37px,#009EBA 38px 38px, #009EBA 39px 39px,#009EBA 40px 40px,#009EBA 41px 41px,#009EBA 42px 42px,#009EBA 43px 43px,#009EBA 44px 44px,#009EBA 45px 45px,#009EBA 46px 46px,#009EBA 47px 47px,#009EBA 48px 48px,#009EBA 49px 49px,#009EBA 50px 50px,#009EBA 51px 51px,#009EBA 52px 52px,#009EBA 53px 53px,#009EBA 54px 54px,#009EBA 55px 55px,#009EBA 56px 56px,#009EBA 57px 57px,#009EBA 58px 58px,#009EBA 59px 59px,#009EBA 60px 60px,#009EBA 61px 61px,#009EBA 62px 62px;
 }
 
 

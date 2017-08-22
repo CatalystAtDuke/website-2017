@@ -828,7 +828,8 @@ Hero
     -webkit-box-shadow: 0px 3px 0px 0px #309383;
     -moz-box-shadow: 0px 3px 0px 0px #309383;
     box-shadow: 0px 3px 0px 0px #309383;
-    margin: 60px 0 0;
+/*    margin: 60px 0 0;*/
+/*    margin-top: */
     font-weight: bold;
 }
 
@@ -845,6 +846,7 @@ Intro
 
 .intro {
     background: #fff;
+/*    background:#f3f5f8;*/
 }
 
 .intro p {
